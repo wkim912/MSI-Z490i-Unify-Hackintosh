@@ -18,3 +18,7 @@ XMP: Enable
 Enhanced Turbo (CPU): Disabled    
 Secure Boot: Disabled   
 D.T.M: Enable (Disables CNVI, CFG Lock, Etc.)     
+
+### Source/References:
+References: [Here](https://github.com/kingwood77/MSI-Z490i-Unify-Hackintosh)  
+Instructions/Guides: [Here](https://dortania.github.io/OpenCore-Install-Guide/)
